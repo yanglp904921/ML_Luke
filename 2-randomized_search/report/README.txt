@@ -7,7 +7,7 @@ pandas==1.2.3
 scikit-learn==0.24.1
 
 2. The codes and data can be accessed at: 
-https://github.com/yanglp904921/ML_Luke/tree/master/proj_2
+https://github.com/yanglp904921/ML_Luke/tree/master/2-randomized_search
 
 3. Run the codes:
 To tune the hyper-parameters for three problems run: run_flip_flop.py, run_four_peaks.py, run_knapsack.py. 
